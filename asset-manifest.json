@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/furr/static/css/main.e6c13ad2.css",
+    "main.js": "/furr/static/js/main.58b691ec.js",
+    "static/js/787.eac36c43.chunk.js": "/furr/static/js/787.eac36c43.chunk.js",
+    "index.html": "/furr/index.html",
+    "main.e6c13ad2.css.map": "/furr/static/css/main.e6c13ad2.css.map",
+    "main.58b691ec.js.map": "/furr/static/js/main.58b691ec.js.map",
+    "787.eac36c43.chunk.js.map": "/furr/static/js/787.eac36c43.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.58b691ec.js"
+  ]
+}
